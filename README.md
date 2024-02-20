@@ -17,7 +17,7 @@ Run the file:
 pacman\desktop\src\com\mygdx\game\Main.java
 ```
 ## Where is the code located
-The code for the porject is mainly located at
+The code for the project is mainly located at
 ```
 pacman\core\src\com\mygdx\game
 ```
