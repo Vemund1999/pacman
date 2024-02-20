@@ -21,6 +21,8 @@ The code for the project is mainly located at
 ```
 pacman\core\src\com\mygdx\game
 ```
+![image](https://github.com/Vemund1999/pacman/assets/88531005/22c8e3ad-f15d-447b-876f-f1e233e47d33)
+
 
 ## Features
 The user can control pacman's movment on the board.
