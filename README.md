@@ -48,6 +48,8 @@ When pacman's coordinate is the same as some foodpiece, the index for that foodp
 Singleton is used for the game-window, the hashlist for the foodpieces, and the nodetree.
 These datastructures are regularly refrenced, so it's useful to have them be singletons.
 
+Factory pattern is to easily create the different foods on the board (orange and cherry)
+
 Observer pattern is used for when it needs to be communicated to the ghosts that pacman has eaten a cherry.
 
 
