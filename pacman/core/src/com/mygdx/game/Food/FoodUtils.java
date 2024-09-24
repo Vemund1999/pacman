@@ -103,7 +103,6 @@ public class FoodUtils {
                             food.setPosX(node.getPosX() + aestheticPushX);
                             food.setPosY(node.getPosY()+a + aestheticPushY);
                         }
-                        //problem - mat blir plassert flere ganger på en node
                         else if (neighbour.getKey() == node.getRight()) {
                             food.setBounds(node.getPosX()+a + aestheticPushX, node.getPosY() + aestheticPushY);
                             food.setPosX(node.getPosX()+a + aestheticPushX);
